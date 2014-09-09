@@ -1,0 +1,1186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pak",
+				"packageName"
+			],
+			[
+				"Status",
+				"STATUSSES"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"ad",
+				"addFriendSearch"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"even",
+				"eventPanel"
+			],
+			[
+				"getm",
+				"getMinutes()"
+			],
+			[
+				"newE",
+				"newEventForm"
+			],
+			[
+				"date",
+				"datepair"
+			],
+			[
+				"organ",
+				"organizerId"
+			],
+			[
+				"g",
+				"gaussian"
+			],
+			[
+				"sta",
+				"standard_deviation"
+			],
+			[
+				"temp",
+				"tempArray"
+			],
+			[
+				"tem",
+				"tempArray"
+			],
+			[
+				"idx",
+				"index"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"vers",
+				"versterker"
+			],
+			[
+				"Jumpt",
+				"JumpToBase"
+			],
+			[
+				"pop",
+				"populate_randomly"
+			],
+			[
+				"calc_",
+				"calc_fitness"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"new",
+				"newPhrase"
+			],
+			[
+				"fitne",
+				"fitness_percentage"
+			],
+			[
+				"fi",
+				"fitness_percentage"
+			],
+			[
+				"calc_f",
+				"calc_fitness_percentage"
+			],
+			[
+				"total",
+				"totalFitness"
+			],
+			[
+				"cal",
+				"calc_fitness_percentage"
+			],
+			[
+				"mutate",
+				"mutateChance"
+			],
+			[
+				"gene",
+				"generate_gene"
+			],
+			[
+				"gen",
+				"generate_gene"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"email",
+				"emailTemplates"
+			],
+			[
+				"changeP",
+				"changePasswordForm"
+			],
+			[
+				"change",
+				"changePassword"
+			],
+			[
+				"chan",
+				"changePassword"
+			],
+			[
+				"verify",
+				"verifyEmail"
+			],
+			[
+				"best",
+				"beststring"
+			],
+			[
+				"reset",
+				"resetPasswordForm"
+			],
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"sub",
+				"sub	Tag"
+			],
+			[
+				"u",
+				"users"
+			],
+			[
+				"l",
+				"logout"
+			],
+			[
+				"lendee",
+				"lendee_name"
+			],
+			[
+				"item",
+				"item_name"
+			],
+			[
+				"list",
+				"list_item"
+			],
+			[
+				"focu",
+				"focusText"
+			],
+			[
+				"ite",
+				"item_to_add"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"add",
+				"adding_category"
+			],
+			[
+				"addin",
+				"adding_category"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/mb/Documents/web/meteor/meteor-applications/brainstorm/.gitignore",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/build/javascript.sublime-build",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"git graph",
+				"Git: Graph All"
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"proje",
+				"Project: Refresh Folders"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"paclist",
+				"Package Control: List Packages"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git ocmm",
+				"Git: Commit"
+			],
+			[
+				"git staut",
+				"Git: Status"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gcomm",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"puy",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"move",
+				"MoveText: Move Right"
+			],
+			[
+				"default",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"line",
+				"Sort Lines"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git ",
+				"Git: Graph All"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - User"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet eva",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 538.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/lib/.gitignore",
+		"/home/mb/bin/boiler.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/brainstorm/mup.json",
+		"/home/mb/Documents/web/meteor/meteor-applications/brainstorm/brainstorm.sublime-project",
+		"/home/mb/Documents/web/meteor/meteor-applications/brainstorm/brainstorm.sublime-workspace",
+		"/home/mb/Documents/web/meteor/meteor-packages/social/friends-base/friends-base.js",
+		"/home/mb/Documents/web/meteor/meteor-packages/social/friends-base/package.js",
+		"/home/mb/bin/mrt-package.py",
+		"/home/mb/Documents/Ethereum 4chan.txt",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/smart.json",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/main.less",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/meteoric.config.sh",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/public/stubs.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/server/methods.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/views/components/friend.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/friend.less",
+		"/home/mb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mb/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mb/Documents/learning progress/dvorak-typing.txt",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/components.less",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/variables.less",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/style.less",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/views/friends.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/server/publications.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/globalHelpers.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/controllers/register.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/theme.css",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/server/server.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/lib/Users.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/sidebarLeft.less",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/controllers/sidebarLeft.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/README.md",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/styles/util.less",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/views/featured.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/routes.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/slideexample/slideexample.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/slideexample/slideexample.css",
+		"/home/mb/Documents/web/meteor/meteor-applications/slideexample/page2.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/slideexample/page1.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/slideexample/layout.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/views/newEvent.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/views/evts.html",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/controllers/newEvent.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/controllers/events.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/photoevents.sublime-project",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/photoevetns.sublime-project",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/client/views/photoevetns.sublime-project",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/.meteor/local/build/programs/ctl/node_modules/source-map/build/suffix-browser.js",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/.meteor/local/build/programs/ctl/node_modules/source-map/build/suffix-utils.jsm",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/.meteor/local/build/star.json",
+		"/home/mb/Documents/web/meteor/meteor-applications/photo-events/.gitignore",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/header.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/variables.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/theme.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/controllers/friends.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/friend.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/lib/Events.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/components/person.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/controllers/register.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/server/publications.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/lib/Users.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/photoevetns.sublime-project",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/globalHelpers.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/util.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/components.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/sidebarLeft.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/server/kadira.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/sidebarLeft.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/lib/collections.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/components/friend.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/main.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/events.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/evts.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/login.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/lib/vendor/jquery-ui.min.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/components/event-organizer.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/settings.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/lib/vendor/jquery-ui.theme.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/server/server-templates/verifyEmail.handlebars",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/newEvent.html",
+		"/home/mb/Documents/programs/newAtom/atom/static/variables/ui-variables.less",
+		"/home/mb/Documents/programs/newAtom/atom/static/buttons.less",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/routes.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/controllers/newEvent.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/controllers/events.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/smart.json",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/lib/vendor/jquery.timepicker.css",
+		"/media/mb/F266-5162/crap/main.js",
+		"/media/mb/F266-5162/lars.html",
+		"/media/mb/F266-5162/main.js",
+		"/media/mb/F266-5162/crap.js",
+		"/media/mb/F266-5162/main.css",
+		"/usr/local/share/atom/resources/app/node_modules/settings-view/lib/installed-package-view.coffee",
+		"/home/mb/Documents/web/atom-plugins/atom/static/buttons.less",
+		"/usr/local/share/atom/version",
+		"/usr/local/share/atom/resources/app/node_modules/language-less/grammars/less.json",
+		"/usr/local/share/kivy-examples/canvas/lines_extended.py",
+		"/home/mb/Documents/web/meteor-applications/photo-events/LICENSE",
+		"/usr/local/share/atom/resources/app/node_modules/settings-view/lib/lib",
+		"/usr/local/share/atom/resources/app/node_modules/settings-view/lib/package-keymap-view.coffee",
+		"/home/mb/Documents/web/atom-plugins/settings-view/lib/themes-panel.coffee",
+		"/usr/share/atom/resources/app/node_modules/settings-view/lib/package-keymap-view.coffee",
+		"/usr/share/atom/resources/app/node_modules/settings-view/lib/*cof*",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/controllers/sidebarLeft.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/server/server.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/handlebars-server/.build/plugin.compileServerHandlebarsTemplates.os/program.json",
+		"/home/mb/Documents/web/meteor-applications/photo-events/server/server-templates/passwordResetEmail.handlebars",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/packages",
+		"/home/mb/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/winston/.build/npm/node_modules/winston/test/log-exception-test.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/local/build/programs/ctl/npm/logging/main/node_modules/cli-color/.lint",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.gitignore",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/views/common/header.html",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/styles/reset.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/handlebars-server/.npm/package/node_modules/handlebars/node_modules/uglify-js/docstyle.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/handlebars-server/.build/npm/node_modules/handlebars/node_modules/uglify-js/docstyle.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/local/build/programs/server/npm/webapp/main/node_modules/connect/lib/public/style.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/local/build/programs/ctl/node_modules/npm/html/static/style.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/iron-router/.npm/package/node_modules/connect/lib/public/style.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/iron-router/.build-garbage-3ko7ex/npm/node_modules/connect/lib/public/style.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/iron-router/.build/npm/node_modules/connect/lib/public/style.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/local/build/programs/ctl/node_modules/esprima/assets/style.css",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/handlebars-server/handlebars-server-tests.handlebars",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/handlebars-server/.build/plugin.compileServerHandlebarsTemplates.os/packages/compileServerHandlebarsTemplatesplugin.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/local/build/programs/ctl/config.json",
+		"/home/mb/Documents/web/meteor-applications/photo-events/.meteor/local/build/programs/ctl/node_modules/npm/scripts/clean-old.sh",
+		"/home/mb/Documents/web/meteor-applications/photo-events/client/client.js",
+		"/home/mb/Documents/web/meteor-applications/photo-events/packages/winston/.npm/package/node_modules/winston/test/helpers.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*/views/*",
+			"/views/*",
+			"/views",
+			"",
+			"*.less",
+			".less",
+			"*",
+			"js/*",
+			"*",
+			"LendLib.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self",
+			"username",
+			"userId",
+			"\n",
+			"friend",
+			".request",
+			"operator",
+			"false",
+			"50px",
+			" @",
+			"block",
+			".block",
+			"container",
+			"Meteor.allow",
+			",",
+			"onb",
+			"users",
+			"username",
+			"Username error",
+			"timeStr",
+			"_id",
+			"findOne",
+			"undefined",
+			"facebook",
+			"users",
+			"session",
+			"friends",
+			"log",
+			"person",
+			"friend",
+			"Accounts.cr",
+			"username",
+			"publish",
+			"username",
+			"u",
+			"65px",
+			"64px",
+			"Event.create",
+			"}",
+			"=\"event",
+			"='event",
+			"='event'",
+			"events",
+			"8px",
+			".sidebarLeft",
+			"eventOrganizer",
+			"1.2em",
+			"40px",
+			"4",
+			"white",
+			"l-s",
+			"width",
+			"size",
+			"getHours",
+			"hours",
+			"span",
+			"epochToDate",
+			"p",
+			"div",
+			", {",
+			"p",
+			"usrename",
+			"startDateNum",
+			",",
+			"time",
+			"().",
+			"log",
+			"dir",
+			"log",
+			";\n",
+			"functio",
+			"eventId",
+			"//",
+			"array",
+			"RDA",
+			"find_next",
+			"select",
+			"selection",
+			"ctrl+alt+",
+			"A",
+			"\"],",
+			"+k",
+			"line",
+			"boolean",
+			"exactMatch",
+			"exactmatch",
+			"self.pool",
+			"mutate",
+			"d",
+			"calc_fi",
+			"phrase",
+			"other",
+			"val",
+			"makePairs",
+			"))))\n",
+			"addInhabintant",
+			"p",
+			"50px",
+			"left",
+			"div",
+			"head",
+			"reset",
+			"resetPassword",
+			"\"",
+			";",
+			"string",
+			"astr",
+			"alist",
+			"astr",
+			"retruns",
+			"time",
+			"sentence",
+			"trys",
+			"vs",
+			"</li>",
+			"<li>",
+			"HTML",
+			"yyyyy",
+			"username",
+			"user",
+			"usr",
+			"h1",
+			"unplayable",
+			"content",
+			"  ",
+			"	",
+			"\n	",
+			"	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eventOrganizerPanel",
+			"formatDate",
+			"jump_to_interactive",
+			"},\n",
+			"regex_contains",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/mb/Documents/web/meteor/meteor-applications/brainstorm/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 315.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 380.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"users",
+				"lib/Users.js"
+			],
+			[
+				"glo",
+				"client/globalHelpers.js"
+			],
+			[
+				"friehtml",
+				"client/views/friends.html"
+			],
+			[
+				"vari",
+				"client/styles/variables.less"
+			],
+			[
+				"friles",
+				"client/styles/friend.less"
+			],
+			[
+				"styles",
+				"client/styles/style.less"
+			],
+			[
+				"frienhm",
+				"client/views/components/friend.html"
+			],
+			[
+				"fril",
+				"client/styles/friend.less"
+			],
+			[
+				"secuir",
+				"server/security.js"
+			],
+			[
+				"publi",
+				"server/publications.js"
+			],
+			[
+				"less",
+				"client/styles/main.less"
+			],
+			[
+				"frhm",
+				"client/views/friends.html"
+			],
+			[
+				"routes",
+				"client/routes.js"
+			],
+			[
+				".sublime",
+				"client/views/photoevetns.sublime-project"
+			],
+			[
+				".less",
+				"client/styles/friend.less"
+			],
+			[
+				"frien.js",
+				"client/controllers/friends.js"
+			],
+			[
+				"varia",
+				"client/styles/variables.less"
+			],
+			[
+				"firhl",
+				"client/views/friends.html"
+			],
+			[
+				"fhtml",
+				"client/views/friends.html"
+			],
+			[
+				"globa",
+				"client/globalHelpers.js"
+			],
+			[
+				"evts",
+				"client/views/evts.html"
+			],
+			[
+				"eventor",
+				"client/views/components/event-organizer.html"
+			],
+			[
+				"lar",
+				"/media/mb/F266-5162/lars.html"
+			],
+			[
+				"sideh",
+				"client/views/sidebarLeft.html"
+			],
+			[
+				"project",
+				"client/views/photoevetns.sublime-project"
+			],
+			[
+				"vless",
+				"client/styles/variables.less"
+			],
+			[
+				"style.css",
+				"client/styles/theme.css"
+			],
+			[
+				"route",
+				"client/routes.js"
+			],
+			[
+				".css",
+				"client/styles/theme.css"
+			],
+			[
+				"coll",
+				"lib/collections.js"
+			],
+			[
+				"helpers",
+				"client/globalHelpers.js"
+			],
+			[
+				"helprs",
+				"client/globalHelpers.js"
+			],
+			[
+				"hom",
+				"client/views/home.html"
+			],
+			[
+				"css",
+				"client/styles/theme.css"
+			],
+			[
+				"head",
+				"client/views/common/header.html"
+			],
+			[
+				"impo",
+				"import sublime"
+			],
+			[
+				"client",
+				"client/client.js"
+			],
+			[
+				"set",
+				"client/views/settings.html"
+			],
+			[
+				"login",
+				"client/views/login.html"
+			],
+			[
+				"serv",
+				"server/server.js"
+			],
+			[
+				"rout",
+				"client/routes.js"
+			],
+			[
+				"verif",
+				"server/server-templates/verifyEmail.handlebars"
+			],
+			[
+				"clijs",
+				"client/client.js"
+			],
+			[
+				"register",
+				"client/views/register.html"
+			],
+			[
+				"se",
+				"server/server.js"
+			],
+			[
+				"rese",
+				"client/views/resetPassword.html"
+			],
+			[
+				"resp",
+				"client/views/resetPassword.html"
+			],
+			[
+				"regi",
+				"client/views/register.html"
+			],
+			[
+				"home",
+				"client/views/home.html"
+			],
+			[
+				".html",
+				".meteor/local/build/programs/client/head.html"
+			],
+			[
+				"len",
+				"LendLib.html"
+			],
+			[
+				"lh",
+				".meteor/local/build/programs/ctl/node_modules/http-proxy/test/lib-http-proxy-test.js"
+			],
+			[
+				"todhml",
+				"client/todos.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/web/javascript/nature of code/lib/martijnbrekelmans.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
