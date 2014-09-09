@@ -1,7 +1,7 @@
 // api
 Friends = {};
 
-var STATUSES     = {};
+STATUSES     = {};
 STATUSES.pending = "pending"; // for the user who sent the request
 STATUSES.friend  = "friend";  // when both users are friends
 STATUSES.request = "request"; // for the user on the recieving end of the request
@@ -98,6 +98,7 @@ Meteor.methods({
         }
     },
     friendRequest: function (userId, friendId) {
+        console.dir(STATUSES);
         if (!validations.areRelated(userId, friendId)) {
             Meteor.call('addFriend', userId, friendId, STATUSES.pending);
             Meteor.call('addFriend', friendId, userId, STATUSES.request);
