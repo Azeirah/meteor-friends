@@ -28,7 +28,7 @@ validations.validateUserRelations = function (userRelation, userRelation2) {
  */
 validations.hasFriend = function (userId, friendId) {
     var user = Meteor.users.findOne({_id: userId});
-    return _.contains(user.profile.friends, friendId);
+    return _.contains(user.profile.friends, friendId) || validations.validateUserRelations({userId: userId, status: STATUSES.empty}, {userId: friendId, status: STATUSES.empty});
 };
 
 /**
