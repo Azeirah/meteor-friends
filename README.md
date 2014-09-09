@@ -1,6 +1,8 @@
 Friends package for meteor
 ====
 
+# This package is not finished yet. It's probably very buggy, and is missing most of its API.
+
 This package adds friends to a user's profile. In the profile is an array of friends.
 Each friend looks something like this:
 
@@ -31,7 +33,8 @@ Either friends can call this method to undo their friendship
 
 #### Warning, for the time being, this package breaks the account.onCreateUser function.
 
-If you need to use that function, edit yours to ensure a profile exists and initialize an empty `friends` array on the profile:
+If you need to use that function, edit yours to ensure a profile exists and initialize an empty `friends` array on the profile.
+Here's the code this package uses to do this:
 
 ```javascript
 Accounts.onCreateUser(function (options, user) {
