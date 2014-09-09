@@ -98,7 +98,6 @@ Meteor.methods({
         }
     },
     friendRequest: function (userId, friendId) {
-        console.dir(STATUSES);
         if (!validations.areRelated(userId, friendId)) {
             Meteor.call('addFriend', userId, friendId, STATUSES.pending);
             Meteor.call('addFriend', friendId, userId, STATUSES.request);
