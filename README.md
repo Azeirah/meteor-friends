@@ -1,9 +1,9 @@
 Friends package for meteor
 ====
 
-# This package is not finished yet. It's probably very buggy, and is missing most of its API.
+This package adds friend functionality to Meteor. Users will be able to send friend requests, deny or accept them, and remove friends. It provides template handlers and functions to manage friends.
 
-This package adds friends to a user's profile. In the profile is an array of friends.
+In the profile of each user is an array of friends.
 Each friend looks something like this:
 
 ```javascript
