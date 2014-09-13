@@ -1,6 +1,8 @@
 Package.describe({
   name: 'friends',
-  summary: "A friends system for meteor, send friend requests and add and remove friends"
+  summary: "A friends system for meteor, send friend requests and add and remove friends",
+  version: '0.1.0',
+  git: 'github.com/Azeirah/meteor-friends.git'
 });
 
 Package.on_test(function (api) {
@@ -18,10 +20,12 @@ Package.on_test(function (api) {
 });
 
 Package.on_use(function (api, where) {
+  api.versionsFrom('METEOR@0.9.1.1');
   api.use('underscore', 'server');
   api.use('accounts-base', ['client', 'server']);
   api.use('accounts-password', ['client', 'server']);
 
+  api.add_files('friendHelpers.js', ['client']);
   api.add_files('validation.js', ['client', 'server']);
   api.add_files('friends.js', ['client', 'server']);
 

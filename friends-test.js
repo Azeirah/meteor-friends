@@ -74,18 +74,19 @@ var setup = function () {
             createUser();
             simplePoll(userExists('user0'), createUser, Function.prototype);
         });
+    } else {
+        simplePoll(usersExist(['user0', 'user1']), function () {
+            login(function (err) {
+                if (err) {login();}
+            });
+            simplePoll(function () {return !!Meteor.user()}, function (err) {
+                if (err) {console.log(err);}
+                var u0 = Meteor.users.findOne({username: "user0"});
+                var u1 = Meteor.users.findOne({username: "user1"});
+                main(u0, u1);
+            }, Function.prototype, 50, 5000);
+        }, Function.prototype);
     }
-    simplePoll(usersExist(['user0', 'user1']), function () {
-        login(function (err) {
-            if (err) {login();}
-        });
-        simplePoll(function () {return !!Meteor.user()}, function (err) {
-            if (err) {console.log(err);}
-            var u0 = Meteor.users.findOne({username: "user0"});
-            var u1 = Meteor.users.findOne({username: "user1"});
-            main(u0, u1);
-        }, Function.prototype, 50, 5000);
-    }, Function.prototype);
 };
 
 setup();
