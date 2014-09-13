@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'friends',
+  name: 'azeirah:friends',
   summary: "A friends system for meteor, send friend requests and add and remove friends",
   version: '0.1.0',
   git: 'github.com/Azeirah/meteor-friends.git'
