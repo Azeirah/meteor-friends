@@ -117,8 +117,8 @@ Meteor.methods({
     },
     denyRequest: function (userId, friendId) {
         var validated = validations.validateUserRelations(
-            {userId: userId, status: STATUSES.request},
-            {userId: friendId, status: STATUSES.pending}
+            {userId: userId, status: STATUSES.pending},
+            {userId: friendId, status: STATUSES.request}
         );
         // TODO: add option to choose between empty for the request sender or
         // pending, for privacy

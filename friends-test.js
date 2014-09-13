@@ -5,6 +5,15 @@ var main = function (u1, u2) {
         test.equal(validated, true, "Friend request has been validated");
     });
 
+    // Tinytest.addAsync('Friend deny request', function (test, completed) {
+    //     Meteor.setTimeout(function () {
+    //         Friends.denyRequest(u2._id, u1._id); // user2, the one who got a request is sending a confirm to user 1, who was pending for a confirmation/denial
+    //             var validated = validations.validateUserRelations({userId: u1._id, status: "empty"}, {userId: u2._id, status: "empty"});
+    //             test.equal(validated, true, "Friend request has been denied");
+    //             completed();
+    //     }, 300);
+    // });
+
     Tinytest.addAsync('Friend confirm request', function (test, completed) {
         Meteor.setTimeout(function () {
             Friends.confirmRequest(u2._id, u1._id); // user2, the one who got a request is sending a confirm to user 1, who was pending for a confirmation/denial
